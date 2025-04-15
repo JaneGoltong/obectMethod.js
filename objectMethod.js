@@ -6,5 +6,8 @@ let personalInfo ={
     age : 24  
 } 
 let contactInfo = {
-    email : "nyamjenniferigbarak@gmail.com"
+    email : "nyamjenniferigbarak@gmail.com",
+    number : "08146581514",
 }
+Object.assign(personalInfo,contactInfo)
+console.log(personalInfo)
