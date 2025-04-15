@@ -1,7 +1,0 @@
-let product ={
-    cars: "BMW",
-    fruits:"mangoes",
-    house : "hut"
-} 
-
-Object.freeze(product)
